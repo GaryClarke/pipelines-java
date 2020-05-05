@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/garyclarke1974/GettingStarted/_apis/build/status/GaryClarke.pipelines-java?branchName=master)](https://dev.azure.com/garyclarke1974/GettingStarted/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
